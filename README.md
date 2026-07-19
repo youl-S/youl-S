@@ -1,7 +1,7 @@
 # Youl Simonnet
 ### Backend & Systems Developer
 
-I am completing the common core curriculum at **42 Nice**, on track to finish by the end of July. 
+Currently completing the common core curriculum at **42 Nice**, on track to finish by the end of July. 
 I value taking the time to understand how systems work, applying a methodical approach to problem-solving.
 
 ### Previous Focus
